@@ -1,0 +1,25 @@
+{
+    "lineItems": [
+        {
+            "skuName": "apple",
+            "qty": "10",
+            "unitPrice": "0.60",
+            "basePrice": "6.0",
+            "currency": "GBP",
+            "youSave": "0",
+            "yourPrice": "6.0"
+        },
+        {
+            "skuName": "oranges",
+            "qty": "10",
+            "unitPrice": "0.25",
+            "basePrice": "2.5",
+            "currency": "GBP",
+            "youSave": "0.75",
+            "yourPrice": "1.75"
+        }
+    ],
+    "basePrice": "8.50",
+    "youSave": "0.75",
+    "YourPrice": "7.75"
+}

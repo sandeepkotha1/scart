@@ -1,0 +1,11 @@
+{
+    "skuId": "1002",
+    "skuName": "Orange",
+    "qty": 1,
+    "unitPrice": "0.25",
+    "currency": "GBP",
+    "directive": {
+        "foreach": 3,
+        "absoluteDiscount": "0.25"
+    }
+}
